@@ -1,5 +1,20 @@
 # Pallet Loading Optimizer
+## Live Demo
 
+**Try the Pallet Loading Optimizer online:**
+
+https://pallet-loading-optimizer.onrender.com/
+
+A Flask-based engineering application for evaluating pallet loading capacity, testing box orientations, and visualizing pallet arrangements in 2D and 3D.
+
+**Key Features**
+- Box orientation comparison
+- Height and weight constraint evaluation
+- Pallet space utilization analysis
+- Interactive 2D and 3D visualizations
+- Excel-based batch calculations
+
+*Note: The application runs on a free hosting instance, so the first request may take longer after inactivity.*
 **A Flask-based pallet loading calculator with 2D/3D visualizations and batch Excel processing.**
 
 This project helps explore how uniformly sized boxes can be arranged on a pallet under dimensional, height, and optional weight constraints. It is designed as a practical decision-support prototype for warehousing, production planning, and logistics.
